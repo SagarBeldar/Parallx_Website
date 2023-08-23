@@ -1,6 +1,6 @@
 # Parallx_Website
 
-## Literally I really Enjoy To make Parallx Websit Because of this Website I firstly introduce 2D animation like **Perspective** **z-index** **tranalate property** 
+ Literally I really Enjoy To make Parallx Websit Because of this Website I firstly introduce 2D animation like **Perspective** **z-index** **tranalate property** 
 **transform property**
 
 Love to make such websites
